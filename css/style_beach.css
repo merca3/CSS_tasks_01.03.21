@@ -10,7 +10,7 @@ body {
     background-size: cover;
     background-position: center;
     margin: 0px;
-    height: 600px;
+    height: 100vh;
 }
 
 .on-image {
